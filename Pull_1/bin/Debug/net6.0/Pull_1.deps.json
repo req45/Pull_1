@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Pull_1/1.0.0": {
+        "dependencies": {
+          "Pull_11": "1.0.0"
+        },
+        "runtime": {
+          "Pull_1.dll": {}
+        }
+      },
+      "Pull_11/1.0.0": {
+        "runtime": {
+          "Pull_11.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pull_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pull_11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

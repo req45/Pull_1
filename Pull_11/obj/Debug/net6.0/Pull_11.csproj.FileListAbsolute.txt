@@ -1,0 +1,12 @@
+D:\ss\Pull_11\bin\Debug\net6.0\Pull_11.deps.json
+D:\ss\Pull_11\bin\Debug\net6.0\Pull_11.dll
+D:\ss\Pull_11\bin\Debug\net6.0\Pull_11.pdb
+D:\ss\Pull_11\obj\Debug\net6.0\Pull_11.csproj.AssemblyReference.cache
+D:\ss\Pull_11\obj\Debug\net6.0\Pull_11.GeneratedMSBuildEditorConfig.editorconfig
+D:\ss\Pull_11\obj\Debug\net6.0\Pull_11.AssemblyInfoInputs.cache
+D:\ss\Pull_11\obj\Debug\net6.0\Pull_11.AssemblyInfo.cs
+D:\ss\Pull_11\obj\Debug\net6.0\Pull_11.csproj.CoreCompileInputs.cache
+D:\ss\Pull_11\obj\Debug\net6.0\Pull_11.dll
+D:\ss\Pull_11\obj\Debug\net6.0\refint\Pull_11.dll
+D:\ss\Pull_11\obj\Debug\net6.0\Pull_11.pdb
+D:\ss\Pull_11\obj\Debug\net6.0\ref\Pull_11.dll
